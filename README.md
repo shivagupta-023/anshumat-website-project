@@ -22,7 +22,8 @@
 
 ### Dasktop Mode
 ![Homepage Light Mode](<img width="1919" height="1079" alt="Screenshot 2025-09-05 153541" src="https://github.com/user-attachments/assets/194747db-b112-4a23-883d-d6174ee42757" />
-![Homepage Dark Mode](<img width="1919" height="1079" alt="Screenshot 2025-09-05 153553" src="https://github.com/user-attachments/assets/7c4fa78d-0dcc-41b3-a7f6-99cd939b4415" />)
+![Homepage Dark Mode](<img width="1919" height="1079" alt="Screenshot 2025-09-05 153553" src="https://github.com/user-attachments/assets/930e2415-3297-4d9c-aa92-55cb0b198c91" />
+
 
 
 ### Mobile Mode
@@ -54,7 +55,7 @@ To clone and run this project on your local machine, please follow the steps bel
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/anshumat-website-project.git](https://github.com/your-username/anshumat-website-project.git)
+git clone [https://github.com/your-username/anshumat-website-project.git](https://github.com/shivagupta-023/anshumat-website-project.git)
 ```
 *(Please replace this with your actual repository URL)*
 
