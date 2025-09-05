@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-**The live version of the website is deployed on Netlify and can be viewed here:** [**https://your-live-demo-link.netlify.app/**](https://your-live-demo-link.netlify.app/) 
+**The live version of the website is deployed on Vercle and can be viewed here:** https://anshumat-website-project.vercel.app/
 ---
 
 ## ✨ Key Features
@@ -20,11 +20,18 @@
 
 ## [cite_start]📸 Screenshots [cite: 45]
 
-### Light Mode
-![Homepage Light Mode](path/to/your/light-mode-screenshot.png)
+### Dasktop Mode
+![Homepage Light Mode](<img width="1919" height="1079" alt="Screenshot 2025-09-05 153541" src="https://github.com/user-attachments/assets/194747db-b112-4a23-883d-d6174ee42757" />
+![Homepage Dark Mode](<img width="1919" height="1079" alt="Screenshot 2025-09-05 153553" src="https://github.com/user-attachments/assets/7c4fa78d-0dcc-41b3-a7f6-99cd939b4415" />)
 
-### Dark Mode
-![Homepage Dark Mode](path/to/your/dark-mode-screenshot.png)
+
+### Mobile Mode
+![Homepage Light Mode](![1st](https://github.com/user-attachments/assets/ce8d4051-0ab4-4771-ba13-481a4464e518)
+![2nd](https://github.com/user-attachments/assets/40d29691-676d-48a9-8077-30367a7b9f17)
+
+![Homepage Dark Mode](![1st](https://github.com/user-attachments/assets/1cebf019-24c7-4229-8682-f08522ec7f4a)
+![2nd](https://github.com/user-attachments/assets/b28f9f56-e658-4918-bcf6-740c23cd8d7a)
+
 
 ---
 
