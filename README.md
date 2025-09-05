@@ -27,10 +27,12 @@
 
 
 ### Mobile Mode
-![Homepage Light Mode](![1st](https://github.com/user-attachments/assets/ce8d4051-0ab4-4771-ba13-481a4464e518)
+![Homepage Light Mode]
+(![1st](https://github.com/user-attachments/assets/ce8d4051-0ab4-4771-ba13-481a4464e518)
 ![2nd](https://github.com/user-attachments/assets/40d29691-676d-48a9-8077-30367a7b9f17)
 
-![Homepage Dark Mode](![1st](https://github.com/user-attachments/assets/1cebf019-24c7-4229-8682-f08522ec7f4a)
+![Homepage Dark Mode]
+(![1st](https://github.com/user-attachments/assets/1cebf019-24c7-4229-8682-f08522ec7f4a)
 ![2nd](https://github.com/user-attachments/assets/b28f9f56-e658-4918-bcf6-740c23cd8d7a)
 
 
@@ -45,7 +47,7 @@ The project was built using a modern, industry-standard technology stack:
 -   **Animations:** Framer Motion
 -   **Icons:** React Icons
 -   [cite_start]**Version Control:** Git & GitHub [cite: 41]
--   [cite_start]**Deployment:** Netlify [cite: 49]
+-   [cite_start]**Deployment:** Vercle [cite: 49]
 
 ---
 
@@ -57,7 +59,6 @@ To clone and run this project on your local machine, please follow the steps bel
 ```bash
 git clone [https://github.com/your-username/anshumat-website-project.git](https://github.com/shivagupta-023/anshumat-website-project.git)
 ```
-*(Please replace this with your actual repository URL)*
 
 **2. Navigate to the project directory:**
 ```bash
